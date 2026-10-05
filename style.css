@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "font1";
+    src: url(./fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+p{
+    font-family: "font1";
+    font-weight: 700;
+}
+
+h1{
+    color: #2222ff;
+}
